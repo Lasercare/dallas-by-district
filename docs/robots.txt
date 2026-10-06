@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lasercare.github.io/dallas-by-district/sitemap.xml
